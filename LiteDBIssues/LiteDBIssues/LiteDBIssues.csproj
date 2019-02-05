@@ -38,6 +38,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CustomMapper.cs" />
+    <Compile Include="TreeTest.cs" />
     <Compile Include="MixTest.cs" />
     <Compile Include="Models.cs" />
     <Compile Include="Program.cs" />
